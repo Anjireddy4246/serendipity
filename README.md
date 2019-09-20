@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center left">
   <img src="./serendipity-logo.svg" alt="Serendipity" width="400"/>
 </p>
 
